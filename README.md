@@ -5,4 +5,4 @@ ik that font isnt accurate and all that but i just couldnt find font that actual
 
 
 # NOTICE: its only menu, not actual injector or something. 
-# free to use for your own executors or something
+# free to use for your own executor or something
