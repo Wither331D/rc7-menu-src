@@ -1,0 +1,19 @@
+﻿#include <windows.h>
+
+129 ICON "..\\assets\\rc7.ico"
+
+122 BITMAP "..\\assets\\Save_In.bmp"
+123 BITMAP "..\\assets\\WordWrap_In.bmp"
+124 BITMAP "..\\assets\\Auto_In.bmp"
+125 BITMAP "..\\assets\\Google_Drive_In.bmp"
+126 BITMAP "..\\assets\\Wofly_In.bmp"
+127 BITMAP "..\\assets\\Button_Hover.bmp"
+128 BITMAP "..\\assets\\Button_Clicked.bmp"
+130 BITMAP "..\\assets\\MainUi.bmp"
+131 BITMAP "..\\assets\\Button_Idle.bmp"
+132 BITMAP "..\\assets\\TextBox.bmp"
+133 BITMAP "..\\assets\\Krystal_In.bmp"
+136 BITMAP "..\\assets\\S_Button_Hover.bmp"
+137 BITMAP "..\\assets\\S_Button_Clicked.bmp"
+138 BITMAP "..\\assets\\S_Button_Idle.bmp"
+139 BITMAP "..\\assets\\Hide_Side.bmp"
