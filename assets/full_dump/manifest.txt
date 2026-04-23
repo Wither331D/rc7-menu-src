@@ -1,0 +1,37 @@
+Source: .\rc7_cracked.exe
+UTC: 2026-04-23 22:14:23
+
+=== RT_BITMAP (2) ===
+name=122 lang=1033 size=2800 -> RT_BITMAP__122__lang1033.bmp
+name=123 lang=1033 size=2800 -> RT_BITMAP__123__lang1033.bmp
+name=124 lang=1033 size=2800 -> RT_BITMAP__124__lang1033.bmp
+name=125 lang=1033 size=2800 -> RT_BITMAP__125__lang1033.bmp
+name=126 lang=1033 size=2800 -> RT_BITMAP__126__lang1033.bmp
+name=127 lang=1033 size=6940 -> RT_BITMAP__127__lang1033.bmp
+name=128 lang=1033 size=6940 -> RT_BITMAP__128__lang1033.bmp
+name=130 lang=1033 size=444810 -> RT_BITMAP__130__lang1033.bmp
+name=131 lang=1033 size=6940 -> RT_BITMAP__131__lang1033.bmp
+name=132 lang=1033 size=11272 -> RT_BITMAP__132__lang1033.bmp
+name=133 lang=1033 size=2800 -> RT_BITMAP__133__lang1033.bmp
+name=136 lang=1033 size=7240 -> RT_BITMAP__136__lang1033.bmp
+name=137 lang=1033 size=7240 -> RT_BITMAP__137__lang1033.bmp
+name=138 lang=1033 size=7240 -> RT_BITMAP__138__lang1033.bmp
+name=139 lang=1033 size=39400 -> RT_BITMAP__139__lang1033.bmp
+
+=== RT_ICON (3) ===
+name=1 lang=1033 size=1128 -> RT_ICON__1__lang1033.bin
+name=2 lang=1033 size=4264 -> RT_ICON__2__lang1033.bin
+name=3 lang=1033 size=9640 -> RT_ICON__3__lang1033.bin
+name=4 lang=1033 size=16936 -> RT_ICON__4__lang1033.bin
+name=5 lang=1033 size=67624 -> RT_ICON__5__lang1033.bin
+
+=== RT_GROUP_ICON (14) ===
+name=129 lang=1033 size=76 -> RT_GROUP_ICON__129__lang1033.bin
+  + built ico: group_129_lang1033.ico
+
+=== RT_MANIFEST (24) ===
+name=1 lang=1033 size=642 -> RT_MANIFEST__1__lang1033.manifest
+
+=== TYPE_WAVE (WAVE) ===
+name=135 lang=1033 size=73772 -> TYPE_WAVE__135__lang1033.wav
+
